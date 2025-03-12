@@ -3,3 +3,5 @@
 "userA 작업완료" 
 "userB 메모장 확인완료" 
 "userB 작업완료" 
+"userB 메모장 확인완료" 
+"userB 작업완료" 
