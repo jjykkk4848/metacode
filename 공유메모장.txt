@@ -3,5 +3,10 @@
 "userA 작업완료" 
 "userB 메모장 확인완료" 
 "userB 작업완료" 
+<<<<<<< HEAD
 "userA 작업완료 >> admin에서 userA의 오류 발견" 
 "userA 작업완료 >> admin에서 userA의 오류 발견 >> admin에서 수정완료" 
+=======
+"userB 메모장 확인완료" 
+"userB 작업완료" 
+>>>>>>> B_branch
